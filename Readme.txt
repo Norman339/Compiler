@@ -7,3 +7,6 @@
  *  Tools: Bison (syntax analysis), Flex (lexical analysis)
  * =========================================================
  */
+ *to open cmd or terminal the type this instructions after writing your code in langague.txt:
+   --  commande.bat
+   --  compil.exe <langague.txt
